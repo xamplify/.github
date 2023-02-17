@@ -1,6 +1,6 @@
 👾 Welcome 👾
 
-The Xamplify provides front-end & back-end resources for everyone.
+The Xamplify Shares some front-end & back-end resources.
 <!--
 
 **Here are some ideas to get you started:**
