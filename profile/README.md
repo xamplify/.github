@@ -1,6 +1,6 @@
 👾 Welcome 👾
 
-The Xamplify Shares some front-end & back-end Samples.
+The Xamplify is a "test" playground and Shares some front-end & back-end Samples.
 <!--
 
 **Here are some ideas to get you started:**
