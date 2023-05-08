@@ -1,6 +1,4 @@
-👾 Welcome 👾
-
-The Xamplify is a "test" playground and Shares some samples.
+The Xamplify is a "test" org.
 <!--
 
 **Here are some ideas to get you started:**
